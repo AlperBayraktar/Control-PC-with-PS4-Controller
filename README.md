@@ -4,7 +4,7 @@
 
 ## Description
 
-An app made with Python for using the mouse, keyboard & some shortcuts, writing with speech, changing tabs etc.
+An app made with Python for using the mouse, keyboard & some shortcuts, writing with speech, changing tabs etc with a PS4 controller.
 
 ## Controls
 

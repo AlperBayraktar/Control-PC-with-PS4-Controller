@@ -4,7 +4,7 @@
 
 ## Açıklama
 
-Python ile yapılmış, mouse, klavye & bazı kısayolları kullanma, sesle yazma, sekme değiştirme vb. işlevler için bir uygulama.
+Mouse, klavye & bazı kısayolları kullanma, sesle yazma, sekme değiştirme vb. işlevleri PS4 koluyla kontrol etmeyi sağlayan bir Python uygulaması.
 
 ## Kontroller
 
