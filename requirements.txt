@@ -1,0 +1,7 @@
+keyboard==0.13.5
+mouse==0.7.1
+PyAudio==0.2.14
+pyautogui==0.9.54
+pygame==2.6.1
+speechmatics_python==4.0.9
+speechmatics_rt==0.4.0

@@ -1,3 +1,9 @@
+# Added later
+settings.json
+
+# Below is default .gitignore template for Python from GitHub
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
