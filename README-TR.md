@@ -1,7 +1,5 @@
 # Control-PC-with-PS4-Controller
 
-Bu uygulama Python ile yapılmıştır ve mouse, klavye & bazı kısayolları kullanma, sesli yazma, sekmeler arası geçiş gibi işlevler sunar.
-
 [Read in English / İngilizce için tıklayın](README.md)
 
 ## Açıklama
@@ -13,7 +11,7 @@ Python ile yapılmış, mouse, klavye & bazı kısayolları kullanma, sesle yazm
 | 🎮 Kontrol                  | 💻 İşlev                        |
 |----------------------------|---------------------------------|
 | Sol analog                 | Mouse hareketi              |
-| Sağ analog                 | Yukarı/aşağı kaydırma ve yatay kaydırma (OS X ve Linux, bazen Windows için)           |
+| Sağ analog                 | Dikey kaydırma ve yatay kaydırma (OS X ve Linux, bazen Windows için)           |
 | X / L3                      | Sol tıklama                     |
 | R3                         | Sağ tıklama                     |
 | Kare                       | Silme (Backspace)                          |

@@ -11,7 +11,7 @@ An app made with Python for using the mouse, keyboard & some shortcuts, writing 
 | 🎮 Control                  | 💻 Function                        |
 |----------------------------|------------------------------------|
 | Left analog                 | Move mouse      |
-| Right analog                | Scroll up/down (horizontal OS X and Linux, sometimes works on Windows too) |
+| Right analog                | Scroll up/down (also horizontal scroll for OS X and Linux, sometimes works on Windows too) |
 | X / L3                      | Left click                         |
 | R3                          | Right click                        |
 | Square                      | Backspace                            |
